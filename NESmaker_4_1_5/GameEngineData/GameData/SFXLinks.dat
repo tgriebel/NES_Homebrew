@@ -1,0 +1,16 @@
+;; *************** SFXLinks.dat ***************
+;; SFX defines export. Saturday, April 25, 2020 6:47:15 PM
+
+SND_HURT_PLAYER = #0
+SND_GET = #0
+SND_SPLAT = #0
+SND_VICTORY = #0
+SND_CART = #0
+SND_ENTER = #0
+SND_TEXTBOX = #0
+SND_POWERUP = #0
+SND_POWERDOWN = #0
+SND_ATTACK = #0
+SND_UNLOCK = #0
+SND_SHOOT = #0
+SND_BREAK = #0

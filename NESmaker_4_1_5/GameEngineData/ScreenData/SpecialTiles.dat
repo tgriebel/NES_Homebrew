@@ -1,0 +1,26 @@
+;; Special Tiles data export. Saturday, April 25, 2020 6:47:14 PM
+;; (Slash, Stomp, Secret, Boss)
+
+Special_Tiles: 
+SpecialTilesBank_01:
+    .db #$24, #$ff, #$ff, #$ff  ; Tileset 00 
+    .db #$ff, #$ff, #$ff, #$ff  ; Tileset 01 
+    .db #$ff, #$ff, #$ff, #$ff  ; Tileset 02 
+    .db #$ff, #$ff, #$ff, #$ff  ; Tileset 03 
+    .db #$ff, #$ff, #$ff, #$ff  ; Tileset 04 
+    .db #$ff, #$ff, #$ff, #$ff  ; Tileset 05 
+SpecialTilesBank_02:
+    .db #$ff, #$ff, #$ff, #$ff  ; Tileset 00 
+    .db #$ff, #$ff, #$ff, #$ff  ; Tileset 01 
+    .db #$ff, #$ff, #$ff, #$ff  ; Tileset 02 
+    .db #$ff, #$ff, #$ff, #$ff  ; Tileset 03 
+    .db #$ff, #$ff, #$ff, #$ff  ; Tileset 04 
+    .db #$ff, #$ff, #$ff, #$ff  ; Tileset 05 
+SpecialTilesBank_03:
+    .db #$ff, #$ff, #$ff, #$ff  ; Tileset 00 
+    .db #$ff, #$ff, #$ff, #$ff  ; Tileset 01 
+    .db #$ff, #$ff, #$ff, #$ff  ; Tileset 02 
+    .db #$ff, #$ff, #$ff, #$ff  ; Tileset 03 
+    .db #$ff, #$ff, #$ff, #$ff  ; Tileset 04 
+    .db #$ff, #$ff, #$ff, #$ff  ; Tileset 05 
+

@@ -1,0 +1,240 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 0 GameItem: Player
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Player
+;; Size = 2 by2
+;; Animation = Idle_down
+GameItem0_0:
+.db #$2; frame count
+.db #$00, #%00000000, #$01, #%00000000, #$10, #%00000000, #$21, #%00000000
+.db #$02, #%00000000, #$03, #%00000000, #$12, #%00000000, #$13, #%00000000
+;; Animation = Idle_right
+GameItem0_1:
+.db #$1; frame count
+.db #$20, #%00000000, #$21, #%00000000, #$30, #%00000000, #$31, #%00000000
+;; Animation = Idle_left
+GameItem0_2:
+.db #$1; frame count
+.db #$40, #%00000000, #$41, #%00000000, #$50, #%00000000, #$51, #%00000000
+;; Animation = Idle_up
+GameItem0_3:
+.db #$1; frame count
+.db #$60, #%00000000, #$61, #%00000000, #$70, #%00000000, #$71, #%00000000
+;; Animation = Walk_down
+GameItem0_4:
+.db #$2; frame count
+.db #$00, #%00000000, #$01, #%00000000, #$10, #%00000000, #$11, #%00000000
+.db #$02, #%00000000, #$03, #%00000000, #$12, #%00000000, #$13, #%00000000
+;; Animation = Walk_right
+GameItem0_5:
+.db #$2; frame count
+.db #$20, #%00000000, #$21, #%00000000, #$30, #%00000000, #$31, #%00000000
+.db #$22, #%00000000, #$23, #%00000000, #$32, #%00000000, #$33, #%00000000
+;; Animation = Walk_left
+GameItem0_6:
+.db #$2; frame count
+.db #$40, #%00000000, #$41, #%00000000, #$50, #%00000000, #$51, #%00000000
+.db #$42, #%00000000, #$43, #%00000000, #$52, #%00000000, #$53, #%00000000
+;; Animation = Walk_up
+GameItem0_7:
+.db #$2; frame count
+.db #$60, #%00000000, #$61, #%00000000, #$70, #%00000000, #$71, #%00000000
+.db #$62, #%00000000, #$63, #%00000000, #$72, #%00000000, #$73, #%00000000
+;; Animation = AttackDown
+GameItem0_8:
+.db #$1; frame count
+.db #$06, #%00000000, #$07, #%00000000, #$16, #%00000000, #$17, #%00000000
+;; Animation = AttackRight
+GameItem0_9:
+.db #$1; frame count
+.db #$26, #%00000000, #$27, #%00000000, #$36, #%00000000, #$37, #%00000000
+;; Animation = AttackLeft
+GameItem0_10:
+.db #$1; frame count
+.db #$28, #%00000000, #$29, #%00000000, #$38, #%00000000, #$39, #%00000000
+;; Animation = AttackUp
+GameItem0_11:
+.db #$1; frame count
+.db #$46, #%00000000, #$47, #%00000000, #$56, #%00000000, #$57, #%00000000
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 1 GameItem: Magic
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Magic
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem1_0:
+.db #$1; frame count
+.db #$64, #%00000001
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 2 GameItem: Projectile Source
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Projectile Source
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem2_0:
+.db #$1; frame count
+.db #$00, #%00000000
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 3 GameItem: Projectile
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Projectile
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem3_0:
+.db #$1; frame count
+.db #$00, #%00000000
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 4 GameItem: Health Pickup
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Health Pickup
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem4_0:
+.db #$1; frame count
+.db #$00, #%00000000
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 5 GameItem: Charge Pickup
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Charge Pickup
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem5_0:
+.db #$1; frame count
+.db #$00, #%00000000
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 6 GameItem: Key Pickup
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Key Pickup
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem6_0:
+.db #$1; frame count
+.db #$00, #%00000000
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 7 GameItem: Currency Pickup
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Currency Pickup
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem7_0:
+.db #$1; frame count
+.db #$00, #%00000000
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 8 GameItem: PlayerDeath
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = PlayerDeath
+;; Size = 2 by2
+;; Animation = DefaultAnimation
+GameItem8_0:
+.db #$8; frame count
+.db #$7b, #%00000000, #$7b, #%01000000, #$7b, #%10000000, #$7b, #%11000000
+.db #$7c, #%00000000, #$7c, #%01000000, #$7c, #%10000000, #$7c, #%11000000
+.db #$7d, #%00000000, #$7d, #%01000000, #$7d, #%10000000, #$7d, #%11000000
+.db #$7e, #%00000000, #$7e, #%01000000, #$7e, #%10000000, #$7e, #%11000000
+.db #$7a, #%00000000, #$7a, #%01000000, #$7a, #%10000000, #$7a, #%11000000
+.db #$7a, #%00000000, #$7a, #%01000000, #$7a, #%10000000, #$7a, #%11000000
+.db #$7a, #%00000000, #$7a, #%01000000, #$7a, #%10000000, #$7a, #%11000000
+.db #$7a, #%00000000, #$7a, #%01000000, #$7a, #%10000000, #$7a, #%11000000
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 9 GameItem: Effect 1
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Effect 1
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem9_0:
+.db #$1; frame count
+.db #$00, #%00000000
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 10 GameItem: Effect 2
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Effect 2
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem10_0:
+.db #$1; frame count
+.db #$00, #%00000000
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 11 GameItem: Effect 3
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Effect 3
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem11_0:
+.db #$1; frame count
+.db #$00, #%00000000
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 12 GameItem: Effect 4
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Effect 4
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem12_0:
+.db #$1; frame count
+.db #$00, #%00000000
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 13 GameItem: Effect 5
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Effect 5
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem13_0:
+.db #$1; frame count
+.db #$00, #%00000000
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 14 GameItem: Effect 6
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Effect 6
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem14_0:
+.db #$1; frame count
+.db #$00, #%00000000
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 15 GameItem: Effect 7
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Effect 7
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem15_0:
+.db #$1; frame count
+.db #$00, #%00000000
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 0 Monster NPC
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = NPC
+;; Size = 2 by2
+;; Animation = DefaultAnimation
+Object0_0:
+.db #$1; frame count
+.db #$08, #%00000010, #$09, #%00000010, #$18, #%00000010, #$19, #%00000010
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 1 Monster slime
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = slime
+;; Size = 2 by2
+;; Animation = DefaultAnimation
+Object1_0:
+.db #$2; frame count
+.db #$00, #%00000010, #$01, #%00000010, #$10, #%00000010, #$11, #%00000010
+.db #$02, #%00000010, #$03, #%00000010, #$12, #%00000010, #$13, #%00000010
+
+Object_total_sprites:
+.db 4,1,1,1,1,1,1,1,4,1,1,1,1,1,1,1
+.db 4,4

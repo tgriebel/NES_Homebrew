@@ -1,0 +1,3 @@
+;; DESTROY ME
+
+	DeactivateCurrentObject

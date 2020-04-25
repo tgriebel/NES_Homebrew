@@ -1,0 +1,54 @@
+;; Shopinfo data export. Saturday, April 25, 2020 6:47:14 PM
+
+shop_items: 
+    .db #$00, #$00, #$00, #$00 ;shop shop00 
+    .db #$00, #$00, #$00, #$00 ;shop shop01 
+    .db #$00, #$00, #$00, #$00 ;shop shop02 
+    .db #$00, #$00, #$00, #$00 ;shop shop03 
+    .db #$00, #$00, #$00, #$00 ;shop shop04 
+    .db #$00, #$00, #$00, #$00 ;shop shop05 
+    .db #$00, #$00, #$00, #$00 ;shop shop06 
+    .db #$00, #$00, #$00, #$00 ;shop shop07 
+    .db #$00, #$00, #$00, #$00 ;shop shop08 
+    .db #$00, #$00, #$00, #$00 ;shop shop09 
+    .db #$00, #$00, #$00, #$00 ;shop shop0a 
+    .db #$00, #$00, #$00, #$00 ;shop shop0b 
+    .db #$00, #$00, #$00, #$00 ;shop shop0c 
+    .db #$00, #$00, #$00, #$00 ;shop shop0d 
+    .db #$00, #$00, #$00, #$00 ;shop shop0e 
+    .db #$00, #$00, #$00, #$00 ;shop shop0f 
+shop_ones: 
+    .db #$00, #$00, #$00, #$00 ;shop shop00 
+    .db #$00, #$00, #$00, #$00 ;shop shop01 
+    .db #$00, #$00, #$00, #$00 ;shop shop02 
+    .db #$00, #$00, #$00, #$00 ;shop shop03 
+    .db #$00, #$00, #$00, #$00 ;shop shop04 
+    .db #$00, #$00, #$00, #$00 ;shop shop05 
+    .db #$00, #$00, #$00, #$00 ;shop shop06 
+    .db #$00, #$00, #$00, #$00 ;shop shop07 
+    .db #$00, #$00, #$00, #$00 ;shop shop08 
+    .db #$00, #$00, #$00, #$00 ;shop shop09 
+    .db #$00, #$00, #$00, #$00 ;shop shop0a 
+    .db #$00, #$00, #$00, #$00 ;shop shop0b 
+    .db #$00, #$00, #$00, #$00 ;shop shop0c 
+    .db #$00, #$00, #$00, #$00 ;shop shop0d 
+    .db #$00, #$00, #$00, #$00 ;shop shop0e 
+    .db #$00, #$00, #$00, #$00 ;shop shop0f 
+shop_tens: 
+    .db #$00, #$00, #$00, #$00 ;shop shop00 
+    .db #$00, #$00, #$00, #$00 ;shop shop01 
+    .db #$00, #$00, #$00, #$00 ;shop shop02 
+    .db #$00, #$00, #$00, #$00 ;shop shop03 
+    .db #$00, #$00, #$00, #$00 ;shop shop04 
+    .db #$00, #$00, #$00, #$00 ;shop shop05 
+    .db #$00, #$00, #$00, #$00 ;shop shop06 
+    .db #$00, #$00, #$00, #$00 ;shop shop07 
+    .db #$00, #$00, #$00, #$00 ;shop shop08 
+    .db #$00, #$00, #$00, #$00 ;shop shop09 
+    .db #$00, #$00, #$00, #$00 ;shop shop0a 
+    .db #$00, #$00, #$00, #$00 ;shop shop0b 
+    .db #$00, #$00, #$00, #$00 ;shop shop0c 
+    .db #$00, #$00, #$00, #$00 ;shop shop0d 
+    .db #$00, #$00, #$00, #$00 ;shop shop0e 
+    .db #$00, #$00, #$00, #$00 ;shop shop0f 
+

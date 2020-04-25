@@ -1,0 +1,769 @@
+;;;;;;;;;;;;;Text Group export info: 4/25/2020 6:47:14 PM
+TextGroup0:    ;;;;; Group 0
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup1:    ;;;;; Group 1
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup2:    ;;;;; Group 2
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup3:    ;;;;; Group 3
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup4:    ;;;;; Group 4
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup5:    ;;;;; Group 5
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup6:    ;;;;; Group 6
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup7:    ;;;;; Group 7
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup8:    ;;;;; Group 8
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup9:    ;;;;; Group 9
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup10:    ;;;;; Group 10
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup11:    ;;;;; Group 11
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup12:    ;;;;; Group 12
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup13:    ;;;;; Group 13
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup14:    ;;;;; Group 14
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup15:    ;;;;; Group 15
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup16:    ;;;;; Group 16
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup17:    ;;;;; Group 17
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup18:    ;;;;; Group 18
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup19:    ;;;;; Group 19
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup20:    ;;;;; Group 20
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup21:    ;;;;; Group 21
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup22:    ;;;;; Group 22
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup23:    ;;;;; Group 23
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup24:    ;;;;; Group 24
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup25:    ;;;;; Group 25
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup26:    ;;;;; Group 26
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup27:    ;;;;; Group 27
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup28:    ;;;;; Group 28
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup29:    ;;;;; Group 29
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup30:    ;;;;; Group 30
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup31:    ;;;;; Group 31
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup32:    ;;;;; Group 32
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup33:    ;;;;; Group 33
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup34:    ;;;;; Group 34
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup35:    ;;;;; Group 35
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup36:    ;;;;; Group 36
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup37:    ;;;;; Group 37
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup38:    ;;;;; Group 38
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup39:    ;;;;; Group 39
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup40:    ;;;;; Group 40
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup41:    ;;;;; Group 41
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup42:    ;;;;; Group 42
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup43:    ;;;;; Group 43
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup44:    ;;;;; Group 44
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup45:    ;;;;; Group 45
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup46:    ;;;;; Group 46
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup47:    ;;;;; Group 47
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup48:    ;;;;; Group 48
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup49:    ;;;;; Group 49
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup50:    ;;;;; Group 50
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup51:    ;;;;; Group 51
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup52:    ;;;;; Group 52
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup53:    ;;;;; Group 53
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup54:    ;;;;; Group 54
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup55:    ;;;;; Group 55
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup56:    ;;;;; Group 56
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup57:    ;;;;; Group 57
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup58:    ;;;;; Group 58
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup59:    ;;;;; Group 59
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup60:    ;;;;; Group 60
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup61:    ;;;;; Group 61
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup62:    ;;;;; Group 62
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup63:    ;;;;; Group 63
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup64:    ;;;;; Group 64
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup65:    ;;;;; Group 65
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup66:    ;;;;; Group 66
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup67:    ;;;;; Group 67
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup68:    ;;;;; Group 68
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup69:    ;;;;; Group 69
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup70:    ;;;;; Group 70
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup71:    ;;;;; Group 71
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup72:    ;;;;; Group 72
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup73:    ;;;;; Group 73
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup74:    ;;;;; Group 74
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup75:    ;;;;; Group 75
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup76:    ;;;;; Group 76
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup77:    ;;;;; Group 77
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup78:    ;;;;; Group 78
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup79:    ;;;;; Group 79
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup80:    ;;;;; Group 80
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup81:    ;;;;; Group 81
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup82:    ;;;;; Group 82
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup83:    ;;;;; Group 83
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup84:    ;;;;; Group 84
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup85:    ;;;;; Group 85
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup86:    ;;;;; Group 86
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup87:    ;;;;; Group 87
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup88:    ;;;;; Group 88
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup89:    ;;;;; Group 89
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup90:    ;;;;; Group 90
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup91:    ;;;;; Group 91
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup92:    ;;;;; Group 92
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup93:    ;;;;; Group 93
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup94:    ;;;;; Group 94
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup95:    ;;;;; Group 95
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup96:    ;;;;; Group 96
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup97:    ;;;;; Group 97
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup98:    ;;;;; Group 98
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup99:    ;;;;; Group 99
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup100:    ;;;;; Group 100
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup101:    ;;;;; Group 101
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup102:    ;;;;; Group 102
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup103:    ;;;;; Group 103
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup104:    ;;;;; Group 104
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup105:    ;;;;; Group 105
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup106:    ;;;;; Group 106
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup107:    ;;;;; Group 107
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup108:    ;;;;; Group 108
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup109:    ;;;;; Group 109
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup110:    ;;;;; Group 110
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup111:    ;;;;; Group 111
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup112:    ;;;;; Group 112
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup113:    ;;;;; Group 113
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup114:    ;;;;; Group 114
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup115:    ;;;;; Group 115
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup116:    ;;;;; Group 116
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup117:    ;;;;; Group 117
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup118:    ;;;;; Group 118
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup119:    ;;;;; Group 119
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup120:    ;;;;; Group 120
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup121:    ;;;;; Group 121
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup122:    ;;;;; Group 122
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup123:    ;;;;; Group 123
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup124:    ;;;;; Group 124
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup125:    ;;;;; Group 125
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup126:    ;;;;; Group 126
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup127:    ;;;;; Group 127
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup128:    ;;;;; Group 128
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup129:    ;;;;; Group 129
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup130:    ;;;;; Group 130
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup131:    ;;;;; Group 131
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup132:    ;;;;; Group 132
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup133:    ;;;;; Group 133
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup134:    ;;;;; Group 134
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup135:    ;;;;; Group 135
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup136:    ;;;;; Group 136
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup137:    ;;;;; Group 137
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup138:    ;;;;; Group 138
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup139:    ;;;;; Group 139
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup140:    ;;;;; Group 140
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup141:    ;;;;; Group 141
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup142:    ;;;;; Group 142
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup143:    ;;;;; Group 143
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup144:    ;;;;; Group 144
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup145:    ;;;;; Group 145
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup146:    ;;;;; Group 146
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup147:    ;;;;; Group 147
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup148:    ;;;;; Group 148
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup149:    ;;;;; Group 149
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup150:    ;;;;; Group 150
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup151:    ;;;;; Group 151
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup152:    ;;;;; Group 152
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup153:    ;;;;; Group 153
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup154:    ;;;;; Group 154
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup155:    ;;;;; Group 155
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup156:    ;;;;; Group 156
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup157:    ;;;;; Group 157
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup158:    ;;;;; Group 158
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup159:    ;;;;; Group 159
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup160:    ;;;;; Group 160
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup161:    ;;;;; Group 161
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup162:    ;;;;; Group 162
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup163:    ;;;;; Group 163
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup164:    ;;;;; Group 164
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup165:    ;;;;; Group 165
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup166:    ;;;;; Group 166
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup167:    ;;;;; Group 167
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup168:    ;;;;; Group 168
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup169:    ;;;;; Group 169
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup170:    ;;;;; Group 170
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup171:    ;;;;; Group 171
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup172:    ;;;;; Group 172
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup173:    ;;;;; Group 173
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup174:    ;;;;; Group 174
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup175:    ;;;;; Group 175
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup176:    ;;;;; Group 176
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup177:    ;;;;; Group 177
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup178:    ;;;;; Group 178
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup179:    ;;;;; Group 179
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup180:    ;;;;; Group 180
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup181:    ;;;;; Group 181
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup182:    ;;;;; Group 182
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup183:    ;;;;; Group 183
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup184:    ;;;;; Group 184
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup185:    ;;;;; Group 185
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup186:    ;;;;; Group 186
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup187:    ;;;;; Group 187
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup188:    ;;;;; Group 188
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup189:    ;;;;; Group 189
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup190:    ;;;;; Group 190
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup191:    ;;;;; Group 191
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup192:    ;;;;; Group 192
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup193:    ;;;;; Group 193
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup194:    ;;;;; Group 194
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup195:    ;;;;; Group 195
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup196:    ;;;;; Group 196
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup197:    ;;;;; Group 197
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup198:    ;;;;; Group 198
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup199:    ;;;;; Group 199
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup200:    ;;;;; Group 200
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup201:    ;;;;; Group 201
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup202:    ;;;;; Group 202
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup203:    ;;;;; Group 203
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup204:    ;;;;; Group 204
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup205:    ;;;;; Group 205
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup206:    ;;;;; Group 206
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup207:    ;;;;; Group 207
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup208:    ;;;;; Group 208
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup209:    ;;;;; Group 209
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup210:    ;;;;; Group 210
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup211:    ;;;;; Group 211
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup212:    ;;;;; Group 212
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup213:    ;;;;; Group 213
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup214:    ;;;;; Group 214
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup215:    ;;;;; Group 215
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup216:    ;;;;; Group 216
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup217:    ;;;;; Group 217
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup218:    ;;;;; Group 218
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup219:    ;;;;; Group 219
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup220:    ;;;;; Group 220
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup221:    ;;;;; Group 221
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup222:    ;;;;; Group 222
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup223:    ;;;;; Group 223
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup224:    ;;;;; Group 224
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup225:    ;;;;; Group 225
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup226:    ;;;;; Group 226
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup227:    ;;;;; Group 227
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup228:    ;;;;; Group 228
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup229:    ;;;;; Group 229
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup230:    ;;;;; Group 230
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup231:    ;;;;; Group 231
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup232:    ;;;;; Group 232
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup233:    ;;;;; Group 233
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup234:    ;;;;; Group 234
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup235:    ;;;;; Group 235
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup236:    ;;;;; Group 236
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup237:    ;;;;; Group 237
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup238:    ;;;;; Group 238
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup239:    ;;;;; Group 239
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup240:    ;;;;; Group 240
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup241:    ;;;;; Group 241
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup242:    ;;;;; Group 242
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup243:    ;;;;; Group 243
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup244:    ;;;;; Group 244
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup245:    ;;;;; Group 245
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup246:    ;;;;; Group 246
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup247:    ;;;;; Group 247
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup248:    ;;;;; Group 248
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup249:    ;;;;; Group 249
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup250:    ;;;;; Group 250
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup251:    ;;;;; Group 251
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup252:    ;;;;; Group 252
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup253:    ;;;;; Group 253
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup254:    ;;;;; Group 254
+	.db #$00, #$00, #$00, #$00 
+
+TextGroup255:    ;;;;; Group 255
+	.db #$00, #$00, #$00, #$00 
+

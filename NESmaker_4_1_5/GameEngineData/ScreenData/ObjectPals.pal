@@ -1,0 +1,128 @@
+objectPal_0:
+.db #$0f, #$26, #$2c, #$0c
+objectPal_1:
+.db #$0f, #$27, #$16, #$0c
+objectPal_2:
+.db #$0f, #$30, #$28, #$08
+objectPal_3:
+.db #$0f, #$01, #$05, #$30
+objectPal_4:
+.db #$0f, #$01, #$05, #$30
+objectPal_5:
+.db #$0f, #$01, #$05, #$30
+objectPal_6:
+.db #$0f, #$01, #$05, #$30
+objectPal_7:
+.db #$0f, #$01, #$05, #$30
+objectPal_8:
+.db #$0f, #$01, #$05, #$30
+objectPal_9:
+.db #$0f, #$01, #$05, #$30
+objectPal_10:
+.db #$0f, #$01, #$05, #$30
+objectPal_11:
+.db #$0f, #$01, #$05, #$30
+objectPal_12:
+.db #$0f, #$01, #$05, #$30
+objectPal_13:
+.db #$0f, #$01, #$05, #$30
+objectPal_14:
+.db #$0f, #$01, #$05, #$30
+objectPal_15:
+.db #$0f, #$01, #$05, #$30
+objectPal_16:
+.db #$0f, #$01, #$05, #$30
+objectPal_17:
+.db #$0f, #$01, #$05, #$30
+objectPal_18:
+.db #$0f, #$01, #$05, #$30
+objectPal_19:
+.db #$0f, #$01, #$05, #$30
+objectPal_20:
+.db #$0f, #$01, #$05, #$30
+objectPal_21:
+.db #$0f, #$01, #$05, #$30
+objectPal_22:
+.db #$0f, #$01, #$05, #$30
+objectPal_23:
+.db #$0f, #$01, #$05, #$30
+objectPal_24:
+.db #$0f, #$01, #$05, #$30
+objectPal_25:
+.db #$0f, #$01, #$05, #$30
+objectPal_26:
+.db #$0f, #$01, #$05, #$30
+objectPal_27:
+.db #$0f, #$01, #$05, #$30
+objectPal_28:
+.db #$0f, #$01, #$05, #$30
+objectPal_29:
+.db #$0f, #$01, #$05, #$30
+objectPal_30:
+.db #$0f, #$01, #$05, #$30
+objectPal_31:
+.db #$0f, #$01, #$05, #$30
+objectPal_32:
+.db #$0f, #$01, #$05, #$30
+objectPal_33:
+.db #$0f, #$01, #$05, #$30
+objectPal_34:
+.db #$0f, #$01, #$05, #$30
+objectPal_35:
+.db #$0f, #$01, #$05, #$30
+objectPal_36:
+.db #$0f, #$01, #$05, #$30
+objectPal_37:
+.db #$0f, #$01, #$05, #$30
+objectPal_38:
+.db #$0f, #$01, #$05, #$30
+objectPal_39:
+.db #$0f, #$01, #$05, #$30
+objectPal_40:
+.db #$0f, #$01, #$05, #$30
+objectPal_41:
+.db #$0f, #$01, #$05, #$30
+objectPal_42:
+.db #$0f, #$01, #$05, #$30
+objectPal_43:
+.db #$0f, #$01, #$05, #$30
+objectPal_44:
+.db #$0f, #$01, #$05, #$30
+objectPal_45:
+.db #$0f, #$01, #$05, #$30
+objectPal_46:
+.db #$0f, #$01, #$05, #$30
+objectPal_47:
+.db #$0f, #$01, #$05, #$30
+objectPal_48:
+.db #$0f, #$01, #$05, #$30
+objectPal_49:
+.db #$0f, #$01, #$05, #$30
+objectPal_50:
+.db #$0f, #$01, #$05, #$30
+objectPal_51:
+.db #$0f, #$01, #$05, #$30
+objectPal_52:
+.db #$0f, #$01, #$05, #$30
+objectPal_53:
+.db #$0f, #$01, #$05, #$30
+objectPal_54:
+.db #$0f, #$01, #$05, #$30
+objectPal_55:
+.db #$0f, #$01, #$05, #$30
+objectPal_56:
+.db #$0f, #$01, #$05, #$30
+objectPal_57:
+.db #$0f, #$01, #$05, #$30
+objectPal_58:
+.db #$0f, #$01, #$05, #$30
+objectPal_59:
+.db #$0f, #$01, #$05, #$30
+objectPal_60:
+.db #$0f, #$01, #$05, #$30
+objectPal_61:
+.db #$0f, #$01, #$05, #$30
+objectPal_62:
+.db #$0f, #$01, #$05, #$30
+objectPal_63:
+.db #$0f, #$01, #$05, #$30

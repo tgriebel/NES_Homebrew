@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <tiles>
+	  <tile bank="1" tileset="0" type="Main"   name="BckCHR_00.bmp" display="Tileset00"/>
+	  <tile bank="1" tileset="1" type="Main"   name="BckCHR_01.bmp" display="Tileset01"/>
+ 	  <tile bank="1" tileset="2" type="Main"   name="BckCHR_02.bmp" display="Tileset02"/>
+	  <tile bank="1" tileset="3" type="Main"   name="BckCHR_03.bmp" display="Tileset03"/>
+	  <tile bank="1" tileset="4" type="Main"   name="BckCHR_04.bmp" display="Tileset04"/>
+	  <tile bank="1" tileset="5" type="Main"   name="BckCHR_05.bmp" display="Tileset05"/>
+
+    <tile bank="1" tileset="0" type="Screen" name="BckSSChr00.bmp" display="Tileset_Screen_00"/>
+    <tile bank="1" tileset="1" type="Screen" name="BckSSChr01.bmp" display="Tileset_Screen_01"/>
+    <tile bank="1" tileset="2" type="Screen" name="BckSSChr02.bmp" display="Tileset_Screen_02"/>
+    <tile bank="1" tileset="3" type="Screen" name="BckSSChr03.bmp" display="Tileset_Screen_03"/>
+    <tile bank="1" tileset="4" type="Screen" name="BckSSChr04.bmp" display="Tileset_Screen_04"/>
+    <tile bank="1" tileset="5" type="Screen" name="BckSSChr05.bmp" display="Tileset_Screen_05"/>
+    <tile bank="1" tileset="6" type="Screen" name="BckSSChr06.bmp" display="Tileset_Screen_06"/>
+    <tile bank="1" tileset="7" type="Screen" name="BckSSChr07.bmp" display="Tileset_Screen_07"/>
+    <tile bank="1" tileset="8" type="Screen" name="BckSSChr08.bmp" display="Tileset_Screen_08"/>
+    <tile bank="1" tileset="9" type="Screen" name="BckSSChr09.bmp" display="Tileset_Screen_09"/>	  
+		  
+	
+	  <tile bank="2" tileset="0" type="Main"   name="BckCHR_06.bmp" display="Tileset06"/>
+	  <tile bank="2" tileset="1" type="Main"   name="BckCHR_07.bmp" display="Tileset07"/>
+ 	  <tile bank="2" tileset="2" type="Main"   name="BckCHR_08.bmp" display="Tileset08"/>
+	  <tile bank="2" tileset="3" type="Main"   name="BckCHR_09.bmp" display="Tileset09"/>
+	  <tile bank="2" tileset="4" type="Main"   name="BckCHR_10.bmp" display="Tileset10"/>
+	  <tile bank="2" tileset="5" type="Main"   name="BckCHR_11.bmp" display="Tileset11"/>
+	
+    <tile bank="2" tileset="0" type="Screen" name="BckSSChr10.bmp" display="Tileset_Screen_10"/>
+    <tile bank="2" tileset="1" type="Screen" name="BckSSChr11.bmp" display="Tileset_Screen_11"/>
+    <tile bank="2" tileset="2" type="Screen" name="BckSSChr12.bmp" display="Tileset_Screen_12"/>
+    <tile bank="2" tileset="3" type="Screen" name="BckSSChr13.bmp" display="Tileset_Screen_13"/>
+    <tile bank="2" tileset="4" type="Screen" name="BckSSChr14.bmp" display="Tileset_Screen_14"/>
+    <tile bank="2" tileset="5" type="Screen" name="BckSSChr15.bmp" display="Tileset_Screen_15"/>
+    <tile bank="2" tileset="6" type="Screen" name="BckSSChr16.bmp" display="Tileset_Screen_16"/>
+    <tile bank="2" tileset="7" type="Screen" name="BckSSChr17.bmp" display="Tileset_Screen_17"/>
+    <tile bank="2" tileset="8" type="Screen" name="BckSSChr18.bmp" display="Tileset_Screen_18"/>
+    <tile bank="2" tileset="9" type="Screen" name="BckSSChr19.bmp" display="Tileset_Screen_19"/>	
+	
+	
+    <tile bank="3" tileset="0" type="Main"   name="BckCHR_12.bmp" display="Tileset12"/>
+    <tile bank="3" tileset="1" type="Main"   name="BckCHR_13.bmp" display="Tileset13"/>
+    <tile bank="3" tileset="2" type="Main"   name="BckCHR_14.bmp" display="Tileset14"/>
+    <tile bank="3" tileset="3" type="Main"   name="BckCHR_15.bmp" display="Tileset15"/>
+    <tile bank="3" tileset="4" type="Main"   name="BckCHR_16.bmp" display="Tileset16"/>
+    <tile bank="3" tileset="5" type="Main"   name="BckCHR_17.bmp" display="Tileset17"/>
+
+	  <tile bank="3" tileset="0" type="Screen" name="BckSSChr20.bmp" display="Tileset_Screen_20"/>
+	  <tile bank="3" tileset="1" type="Screen" name="BckSSChr21.bmp" display="Tileset_Screen_21"/>
+	  <tile bank="3" tileset="2" type="Screen" name="BckSSChr22.bmp" display="Tileset_Screen_22"/>
+	  <tile bank="3" tileset="3" type="Screen" name="BckSSChr23.bmp" display="Tileset_Screen_23"/>
+	  <tile bank="3" tileset="4" type="Screen" name="BckSSChr24.bmp" display="Tileset_Screen_24"/>
+	  <tile bank="3" tileset="5" type="Screen" name="BckSSChr25.bmp" display="Tileset_Screen_25"/>
+	  <tile bank="3" tileset="6" type="Screen" name="BckSSChr26.bmp" display="Tileset_Screen_26"/>
+	  <tile bank="3" tileset="7" type="Screen" name="BckSSChr27.bmp" display="Tileset_Screen_27"/>
+	  <tile bank="3" tileset="8" type="Screen" name="BckSSChr28.bmp" display="Tileset_Screen_28"/>
+	  <tile bank="3" tileset="9" type="Screen" name="BckSSChr29.bmp" display="Tileset_Screen_29"/>
+ 	
+	  <tile bank="0" tileset="0" type="Path"   name="PathTiles00.bmp" display="Path-0">
+    </tile>
+	 
+    <tile bank="1" tileset="0" type="Path"   name="PathTiles00.bmp" display="Path-0">
+      <tilechr row="0" name="CHR_Path_00.chr"/>
+      <tilechr row="1" name="CHR_Path_01.chr"/>
+      <tilechr row="2" name="CHR_Path_02.chr"/>
+      <tilechr row="3" name="CHR_Path_03.chr"/>
+      <tilechr row="4" name="CHR_Path_04.chr"/>
+      <tilechr row="5" name="CHR_Path_05.chr"/>
+      <tilechr row="6" name="CHR_Path_06.chr"/>
+      <tilechr row="7" name="CHR_Path_07.chr"/>
+    </tile>
+
+	  <tile bank="2" tileset="0" type="Path"   name="PathTiles01.bmp" display="Path-0">
+      <tilechr row="0" name="CHR_Path_08.chr"/>
+      <tilechr row="1" name="CHR_Path_09.chr"/>
+      <tilechr row="2" name="CHR_Path_10.chr"/>
+      <tilechr row="3" name="CHR_Path_11.chr"/>
+      <tilechr row="4" name="CHR_Path_12.chr"/>
+      <tilechr row="5" name="CHR_Path_13.chr"/>
+      <tilechr row="6" name="CHR_Path_14.chr"/>
+      <tilechr row="7" name="CHR_Path_15.chr"/>     
+    </tile>
+
+    <tile bank="3" tileset="0" type="Path"   name="PathTiles02.bmp" display="Path-0">
+      <tilechr row="0" name="CHR_Path_16.chr"/>
+      <tilechr row="1" name="CHR_Path_17.chr"/>
+      <tilechr row="2" name="CHR_Path_18.chr"/>
+      <tilechr row="3" name="CHR_Path_19.chr"/>
+      <tilechr row="4" name="CHR_Path_20.chr"/>
+      <tilechr row="5" name="CHR_Path_21.chr"/>
+      <tilechr row="6" name="CHR_Path_22.chr"/>
+      <tilechr row="7" name="CHR_Path_23.chr"/>     
+    </tile>
+     
+  </tiles>
+  <assets>
+  </assets>
+  <monsterTiles>
+    <monsterTile bank="0" tileset="0" name="Monster_0_00.bmp" display="Tiles-0"/>
+    <monsterTile bank="0" tileset="1" name="Monster_0_01.bmp" display="Tiles-1"/>
+    <monsterTile bank="0" tileset="2" name="Monster_0_02.bmp" display="Tiles-2"/>
+    <monsterTile bank="0" tileset="3" name="Monster_0_03.bmp" display="Tiles-3"/>
+    <monsterTile bank="0" tileset="4" name="Monster_0_04.bmp" display="Tiles-4"/>
+    <monsterTile bank="0" tileset="5" name="Monster_0_05.bmp" display="Tiles-5"/>
+    <monsterTile bank="0" tileset="6" name="Monster_0_06.bmp" display="Tiles-6"/>
+    <monsterTile bank="0" tileset="7" name="Monster_0_07.bmp" display="Tiles-7"/>
+    <monsterTile bank="1" tileset="0" name="Monster_1_00.bmp" display="Tiles-0"/>
+    <monsterTile bank="1" tileset="1" name="Monster_1_01.bmp" display="Tiles-1"/>
+    <monsterTile bank="1" tileset="2" name="Monster_1_02.bmp" display="Tiles-2"/>
+    <monsterTile bank="1" tileset="3" name="Monster_1_03.bmp" display="Tiles-3"/>
+    <monsterTile bank="1" tileset="4" name="Monster_1_04.bmp" display="Tiles-4"/>
+    <monsterTile bank="1" tileset="5" name="Monster_1_05.bmp" display="Tiles-5"/>
+    <monsterTile bank="1" tileset="6" name="Monster_1_06.bmp" display="Tiles-6"/>
+    <monsterTile bank="1" tileset="7" name="Monster_1_07.bmp" display="Tiles-7"/>
+  </monsterTiles>
+  <tiletypes>
+    <tiletype id="0" name="Null - Walkable"/>
+    <tiletype id="1" name="Solid - simple"/>
+    <tiletype id="2" name="Player Death"/>
+    <tiletype id="3" name="Win Game"/>
+    <tiletype id="4" name="Warp To Screen"/>
+    <tiletype id="5" name="All Monsters Lock"/>
+    <tiletype id="6" name="All Pickups Lock"/>
+    <tiletype id="7" name="Checkpoint"/>
+    <tiletype id="8" name="Tile08"/>
+    <tiletype id="9" name="Tile09"/>
+    <tiletype id="10" name="Tile10"/>
+    <tiletype id="11" name="Tile11"/>
+    <tiletype id="12" name="Tile12"/>
+    <tiletype id="13" name="Tile13"/>
+    <tiletype id="14" name="Tile14"/>
+    <tiletype id="15" name="Tile15"/>
+  
+	 
+  </tiletypes>
+  <changeTileTypes>
+    <changeType id="0" name="Solid to Ground" />
+    <changeType id="1" name="Plank To Hole" />
+    <changeType id="2" name="Ground to Spikes" />
+    <changeType id="3" name="Spikes to Ground" />
+    <changeType id="4" name="Trigger off" />
+    <changeType id="5" name="Trigger on" />
+  </changeTileTypes>
+  <MonsterDetails>
+    <SolidReaction>
+      <item id="0" name="Null" />
+      <item id="1" name="Reverse Direction" />
+      <item id="2" name="Destroy Me" />
+      <item id="3" name="React03" />
+      <item id="4" name="React04" />
+      <item id="5" name="React05" />
+      <item id="6" name="React06" />
+      <item id="7" name="React07" />
+    </SolidReaction>
+    <EdgeReaction>
+      <item id="0" name="Null" />
+      <item id="1" name="Reverse Direction" />
+      <item id="2" name="Destroy Me" />
+      <item id="3" name="Screen Extend" />
+      <item id="4" name="React04" />
+      <item id="5" name="React05" />
+      <item id="6" name="React06" />
+      <item id="7" name="React07" />
+    </EdgeReaction>
+    <HurtReaction>
+      <item id="0" name="HurtReaction00" />
+      <item id="1" name="HurtReaction01" />
+      <item id="2" name="HurtReaction02" />
+      <item id="3" name="HurtReaction03" />
+    </HurtReaction>
+    <SpawnType>
+      <item id="0" name="SpawnType00" />
+      <item id="1" name="SpawnType01" />
+      <item id="2" name="SpawnType02" />
+    </SpawnType>
+    <AnimationType>
+      <item id="0" name="NOT" />
+      <item id="1" name="USED" />
+    </AnimationType>
+     <Action>
+      <item id="0" name="Null" />
+      <item id="1" name="Move 8 directions" />
+      <item id="2" name="Stop Movement" />
+      <item id="3" name="Move LR" />
+      <item id="4" name="AI_Behavior04" />
+      <item id="5" name="AI_Behavior05" />
+      <item id="6" name="AI_Behavior06" />
+      <item id="7" name="AI_Behavior07" />
+      <item id="8" name="AI_Behavior08" />
+      <item id="9" name="AI_Behavior09" />
+      <item id="10" name="AI_Behavior10" />
+      <item id="11" name="AI_Behavior11" />
+      <item id="12" name = "AI_Behavior12" />
+      <item id="13" name = "AI_Behavior13" />
+      <item id="14" name = "AI_Behavior14" />
+      <item id="15" name = "AI_Behavior15" />
+
+    </Action>
+     <EndAction>
+      <item id="0" name="Loop" />
+      <item id="1" name="Advance" />
+      <item id="2" name="Repeat" />
+       <item id="3" name="GoToFirst" />
+	   <item id="4" name="GoToLast" />
+	   <item id="5" name="GoToPrevious" />
+	   <item id="6" name="DestroyMe" />
+	   <item id="7" name="Restart Game" />
+	    <item id="8" name="Win Game" />
+		<item id="9" name="Go To Warp" />
+		<item id="10" name="User 1" />
+		<item id="11" name="User 2" />
+		<item id="12" name="User 3" />
+		<item id="13" name="User 4" />
+    </EndAction>
+     <EndAnimation>
+      <item id="0" name="Loop" />
+      <item id="1" name="Advance" />
+      <item id="2" name="Repeat" />
+       <item id="3" name="GoToFirst" />
+	   <item id="4" name="GoToLast" />
+	   <item id="5" name="GoToPrevious" />
+	   <item id="6" name="DestroyMe" />
+	   <item id="7" name="Restart Game" />
+	   <item id="8" name="Win Game" />
+	   <item id="9" name="Go To Warp" />
+	   <item id="10" name="User 1" />
+	   <item id="11" name="User 2" />
+	   	<item id="12" name="User 3" />
+		<item id="13" name="User 4" />
+
+    </EndAnimation>
+
+      <MonsterActionStepFlags>
+      <item id="0" name="Invincible" />
+      <item id="1" name="Ignore Ground Type" />
+      <item id="2" name="Is NPC" />
+      <item id="3" name="Head Hurts" />
+      <item id="4" name="Bouncy Head" />
+      <item id="5" name="Magic Immune" />
+      <item id="6" name="Melee Immune" />
+      <item id="7" name="Use Hitbox" />
+    </MonsterActionStepFlags>
+    <MonsterFlags>
+      <item id="0" name="PERSISTENT" />
+      <item id="1" name="player" />
+      <item id="2" name="player weapon" />
+      <item id="3" name="monster" />
+      <item id="4" name="monster weapon" />
+      <item id="5" name="pickup / powerup" />
+      <item id="6" name="target type" />
+      <item id="7" name="IGNORE ALL OBJECT COLLISIONS" />
+    </MonsterFlags>
+	
+   </MonsterDetails>
+  
+  <GameItems>
+      <gameItem id="0" name="NONE" />
+      <gameItem id="1" name="Item 00" />
+      <gameItem id="2" name="Item 01" />
+      <gameItem id="3" name="Item 02" />
+      <gameItem id="4" name="Item 03" />
+      <gameItem id="5" name="Item 04" />
+      <gameItem id="6" name="Item 05" />
+      <gameItem id="7" name="Item 06" />
+      <gameItem id="8" name="Item 07" />
+      <gameItem id="9" name="Item 08" />
+      <gameItem id="10" name="Item09" />
+      <gameItem id="11" name="Item10" />
+      <gameItem id="12" name="Item 11" />
+      <gameItem id="13" name="Item 12" />
+      <gameItem id="14" name="Item 13" />
+      <gameItem id="15" name="Item 14" />
+	  <gameItem id="15" name="Item 15" />
+  </GameItems>
+
+  <!--- Do not ADD items or change the IDs of any of the below!  Only change the name. -->
+  <Relics>
+      <relicItem id="0" name="Relic 0" />
+      <relicItem id="1" name="Relic 1" />
+      <relicItem id="2" name="Relic 2" />
+      <relicItem id="3" name="Relic 3" />
+      <relicItem id="4" name="Relic 4" />
+      <relicItem id="5" name="Relic 5" />
+      <relicItem id="6" name="Relic 6" />
+      <relicItem id="7" name="Relic 7" />
+      <relicItem id="8" name="Relic 8" />
+      <relicItem id="9" name="Relic 9" />
+      <relicItem id="10" name="Relic 10" />
+      <relicItem id="11" name="Relic 11" />
+      <relicItem id="12" name="Relic 12" />
+      <relicItem id="13" name="Relic 13" />
+      <relicItem id="14" name="Relic 14" />
+      <relicItem id="15" name="Relic 15" />
+  </Relics>
+
+  <MagicTypes>
+      <magicType id="0" name="Magic Type 0" />
+      <magicType id="1" name="Magic Type 1" />
+      <magicType id="2" name="Magic Type 2" />
+      <magicType id="3" name="Magic Type 3" />
+      <magicType id="4" name="Magic Type 4" />
+      <magicType id="5" name="Magic Type 5" />
+      <magicType id="6" name="Magic Type 6" />
+      <magicType id="7" name="Magic Type 7" />
+  </MagicTypes>
+  <Songs>
+      <song id="0" name="Song0" />
+      <song id="1" name="Song1" />
+      <song id="2" name="Song2" />
+      <song id="3" name="Song3" />
+      <song id="4" name="Song4" />
+      <song id="5" name="Song5" />
+      <song id="6" name="Song6" />
+      <song id="7" name="Song7" />
+	   <song id="8" name="Song8" />
+	    <song id="9" name="Song9" />
+		 <song id="10" name="Song10" />
+		  <song id="11" name="Song11" />
+		   <song id="12" name="Song12" />
+		   <song id="13" name="Song13" />
+		      <song id="14" name="Song14" />
+    
+  </Songs>
+  
+   <ScreenFlags>
+    <screenFlag id="0" name="Monsters Respawn" />
+    <screenFlag id="1" name="Use Day/Night" />
+    <screenFlag id="2" name="Use Paths" />
+    <screenFlag id="3" name="Boss Room" />
+    <screenFlag id="4" name="Dark Room" />
+    <screenFlag id="5" name="Underground" />
+    <screenFlag id="6" name="Animated" />
+    <screenFlag id="7" name="Show NPC1 Text on Load" />
+  </ScreenFlags>
+
+  <ShopNames>
+    <shop id="0" name="Shop-00" />
+    <shop id="1" name="Shop-01" />
+    <shop id="2" name="Shop-02" />
+    <shop id="3" name="Shop-03" />
+    <shop id="4" name="Shop-04" />
+    <shop id="5" name="Shop-05" />
+    <shop id="6" name="Shop-06" />
+    <shop id="7" name="Shop-07" />
+    <shop id="8" name="Shop-08" />
+    <shop id="9" name="Shop-09" />
+    <shop id="10" name="Shop-10" />
+    <shop id="11" name="Shop-11" />
+    <shop id="12" name="Shop-12" />
+    <shop id="13" name="Shop-13" />
+    <shop id="14" name="Shop-14" />
+    <shop id="15" name="Shop-15" />
+  </ShopNames>
+ <TileAnimations>
+      <Animation id="0" name="anim00.bmp" display="Animation 0"/>
+      <Animation id="1" name="anim01.bmp" display="Animation 1"/>
+      <Animation id="2" name="anim02.bmp" display="Animation 2"/>
+      <Animation id="3" name="anim03.bmp" display="Animation 3"/>
+      <Animation id="4" name="anim04.bmp" display="Animation 4"/>
+      <Animation id="5" name="anim05.bmp" display="Animation 5"/>
+      <Animation id="6" name="anim06.bmp" display="Animation 6"/>
+      <Animation id="7" name="anim07.bmp" display="Animation 7"/>
+      <Animation id="8" name="anim08.bmp" display="Animation 8"/>
+      <Animation id="9" name="anim09.bmp" display="Animation 9"/>
+      <Animation id="10" name="anim10.bmp" display="Animation 10"/>
+      <Animation id="11" name="anim11.bmp" display="Animation 11"/>
+      <Animation id="12" name="anim12.bmp" display="Animation 12"/>
+      <Animation id="13" name="anim13.bmp" display="Animation 13"/>
+      <Animation id="14" name="anim14.bmp" display="Animation 14"/>
+      <Animation id="15" name="anim15.bmp" display="Animation 15"/>
+      <Animation id="16" name="anim16.bmp" display="Animation 16"/>
+      <Animation id="17" name="anim17.bmp" display="Animation 17"/>
+      <Animation id="18" name="anim18.bmp" display="Animation 18"/>
+      <Animation id="19" name="anim19.bmp" display="Animation 19"/>
+      <Animation id="20" name="anim20.bmp" display="Animation 20"/>
+      <Animation id="21" name="anim21.bmp" display="Animation 21"/>
+      <Animation id="22" name="anim22.bmp" display="Animation 22"/>
+      <Animation id="23" name="anim23.bmp" display="Animation 23"/>
+      <Animation id="24" name="anim24.bmp" display="Animation 24"/>
+      <Animation id="25" name="anim25.bmp" display="Animation 25"/>
+      <Animation id="26" name="anim26.bmp" display="Animation 26"/>
+      <Animation id="27" name="anim27.bmp" display="Animation 27"/>
+      <Animation id="28" name="anim28.bmp" display="Animation 28"/>
+      <Animation id="29" name="anim29.bmp" display="Animation 29"/>
+      <Animation id="30" name="anim30.bmp" display="Animation 30"/>
+      <Animation id="31" name="anim31.bmp" display="Animation 31"/>
+  </TileAnimations>  
+  
+ <SpecialTiles>
+	  <specialtile  id="0" name="StartScreen.bmp" display="Start Screen"/>
+	  <specialtile  id="1" name="WinScreen.bmp" display="Win Screen"/>
+	  <specialtile  id="2" name="MenuScreen.bmp" display="Menu Screen"/>
+	  <specialtile  id="3" name="RegisterScreen.bmp" display="Register Screen"/>
+	  <specialtile  id="4" name="DeathScreen.bmp" display="Death Screen"/>
+	  <specialtile  id="5" name="ShopScreen.bmp" display="Shop Screen"/>
+	  <specialtile  id="6" name="NPCScreen.bmp" display="NPC Screen"/>
+	  <specialtile  id="7" name="Menu2Screen.bmp" display="Menu 2 Screen"/>
+  </SpecialTiles>
+
+  <GameObjects>
+    <gameObject id="0" name="GameObjectTiles.bmp"/>
+  </GameObjects>
+  
+   <GlobalVars>
+    <Globalvar id="0" name="UserVar_0" />
+    <Globalvar id="1" name="UserVar_1" />
+    <Globalvar id="2" name="UserVar_2" />
+    <Globalvar id="3" name="UserVar_3" />
+    <Globalvar id="4" name="UserVar_4" />
+    <Globalvar id="5" name="UserVar_5" />
+    <Globalvar id="6" name="UserVar_6" />
+    <Globalvar id="7" name="UserVar_7" />
+  </GlobalVars>
+  
+   <Emulator>
+    <item ID="0" type="exe" name=""/>
+    <item ID="1" type="folder" name=""/>
+    <item ID="2" type="params" name=""/>
+  </Emulator>
+  
+  <HudTiles name="HudTiles.bmp"/>
+  
+   <PaletteColors>
+    <PaletteColor offset="ff" red="0" green="255" blue="0" />
+  </PaletteColors>
+
+  <ColorHues>
+    <ColorHue name="0" desc="Grey"/>
+    <ColorHue name="1" desc="Blue"/>
+    <ColorHue name="2" desc="Indigo"/>
+    <ColorHue name="3" desc="Violet"/>
+    <ColorHue name="4" desc="Lavender"/>
+    <ColorHue name="5" desc="Magenta"/>
+    <ColorHue name="6" desc="Red"/>
+    <ColorHue name="7" desc="Orange"/>
+    <ColorHue name="8" desc="Brown"/>
+    <ColorHue name="9" desc="Olive"/>
+    <ColorHue name="A" desc="Green"/>
+    <ColorHue name="B" desc="Teal"/>
+    <ColorHue name="C" desc="Cyan"/>
+  </ColorHues>
+  
+  <!--
+  <RootNodesMovement>
+    <MoveNode name="Overworld" movement="2" />
+    <MoveNode name="HUD &amp; Boxes" movement="-1" />
+  </RootNodesMovement>
+  -->
+
+  <!--  #### to overide the language, 
+        use fr for french, 
+            en for english, 
+            de for german,
+            es for spanish
+            ja for japan
+            ru for russian
+         Copy the section to an area above the </config> area to enable
+  <LocaleSettings>
+    <Language name="en"/>
+  </LocaleSettings>
+  -->
+
+</config>

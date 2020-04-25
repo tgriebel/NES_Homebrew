@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<doc>
+  <brackets left="&lt;" right="&gt;" />
+  <style name="Green" color="Green"/>
+  <style name="Maroon" color="Maroon" fontStyle="Bold,Italic" />
+  <style name="Maroon2" color="Maroon" fontStyle="Bold" />
+  <style name="Blue" color="Blue"/>
+  <style name="DarkBlue" color="#000080" fontStyle="Bold"/>
+  <style name="Red" color="Red" backColor="#f5f5e5" />
+  <rule style="Green" options="Multiline">;.*$</rule>
+  <rule style="Maroon" options="Multiline">^.*:</rule>
+  <rule style="Maroon2">.include</rule>
+  <rule style="Blue">".*"</rule>
+  <rule style="DarkBlue">TXA|STA|TYA|LDA|JSR|AND|TAY|LDY|LDX|BNE|JMP|BEQ|CMP|LSR|CPX|SEC|SBC|BMI|CLC|ADC|BPL|BCS|BCC|RTS|ASL|ORA|DEC|ASL|\.db</rule>
+  <folding start="&lt;div" finish="&lt;/div&gt;" options="IgnoreCase"/>
+</doc>

@@ -1,0 +1,11 @@
+Base file name: C:\Users\Mystic Searches\Desktop\NESmaker_USEFORTESTING\GameEngineData_Adventure\game
+Program repetition: 1 time(s)
+Character repetition: 1 time(s)
+Program RAM size: 0KB
+iNES format: 1.0
+System: NES
+Program Banks: 32 (16KB Each)
+Character Banks: 0 (8KB CHR-RAM)
+Mapper: 30
+Mirroring: Vertical
+Trainer: No

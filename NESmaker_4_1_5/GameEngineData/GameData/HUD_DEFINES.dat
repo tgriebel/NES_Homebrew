@@ -1,0 +1,11 @@
+;; *************** HUD_DEFINES.dat ***************
+;; HUD defines export. Saturday, April 25, 2020 6:47:15 PM
+
+CHECK_SPRITE_ZERO = $00
+SPRITE_ZERO_INDEX = $00
+SPRITE_ZERO_HBLANK = $00
+SPRITE_ZERO_X = $00
+SPRITE_ZERO_Y = $00
+
+HUD_LOAD = $00
+

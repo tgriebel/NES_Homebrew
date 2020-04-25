@@ -1,0 +1,134 @@
+
+ObjectAnimationSpeedTableLo:
+
+	.db #<GameItem0_animSpeedTable, #<GameItem1_animSpeedTable, #<GameItem2_animSpeedTable, #<GameItem3_animSpeedTable, #<GameItem4_animSpeedTable, #<GameItem5_animSpeedTable, #<GameItem6_animSpeedTable, #<GameItem7_animSpeedTable
+	.db #<GameItem8_animSpeedTable, #<GameItem9_animSpeedTable, #<GameItem10_animSpeedTable, #<GameItem11_animSpeedTable, #<GameItem12_animSpeedTable, #<GameItem13_animSpeedTable, #<GameItem14_animSpeedTable, #<GameItem15_animSpeedTable
+	.db #<Object0_animSpeedTable, #<Object1_animSpeedTable, #<Object2_animSpeedTable, #<Object3_animSpeedTable, #<Object4_animSpeedTable, #<Object5_animSpeedTable, #<Object6_animSpeedTable, #<Object7_animSpeedTable
+	.db #<Object8_animSpeedTable, #<Object9_animSpeedTable, #<Object10_animSpeedTable, #<Object11_animSpeedTable, #<Object12_animSpeedTable, #<Object13_animSpeedTable, #<Object14_animSpeedTable, #<Object15_animSpeedTable
+	.db #<Object16_animSpeedTable, #<Object17_animSpeedTable, #<Object18_animSpeedTable, #<Object19_animSpeedTable, #<Object20_animSpeedTable, #<Object21_animSpeedTable, #<Object22_animSpeedTable, #<Object23_animSpeedTable
+	.db #<Object24_animSpeedTable, #<Object25_animSpeedTable, #<Object26_animSpeedTable, #<Object27_animSpeedTable, #<Object28_animSpeedTable, #<Object29_animSpeedTable, #<Object30_animSpeedTable, #<Object31_animSpeedTable
+	.db #<Object32_animSpeedTable, #<Object33_animSpeedTable, #<Object34_animSpeedTable, #<Object35_animSpeedTable, #<Object36_animSpeedTable, #<Object37_animSpeedTable, #<Object38_animSpeedTable, #<Object39_animSpeedTable
+	.db #<Object40_animSpeedTable, #<Object41_animSpeedTable, #<Object42_animSpeedTable, #<Object43_animSpeedTable, #<Object44_animSpeedTable, #<Object45_animSpeedTable, #<Object46_animSpeedTable, #<Object47_animSpeedTable
+	.db #<Object48_animSpeedTable, #<Object49_animSpeedTable, #<Object50_animSpeedTable, #<Object51_animSpeedTable, #<Object52_animSpeedTable, #<Object53_animSpeedTable, #<Object54_animSpeedTable, #<Object55_animSpeedTable
+	.db #<Object56_animSpeedTable, #<Object57_animSpeedTable, #<Object58_animSpeedTable, #<Object59_animSpeedTable, #<Object60_animSpeedTable, #<Object61_animSpeedTable, #<Object62_animSpeedTable, #<Object63_animSpeedTable
+ObjectBehaviorTableLo:
+
+	.db #<GameItem0_ActionTypes, #<GameItem1_ActionTypes, #<GameItem2_ActionTypes, #<GameItem3_ActionTypes, #<GameItem4_ActionTypes, #<GameItem5_ActionTypes, #<GameItem6_ActionTypes, #<GameItem7_ActionTypes
+	.db #<GameItem8_ActionTypes, #<GameItem9_ActionTypes, #<GameItem10_ActionTypes, #<GameItem11_ActionTypes, #<GameItem12_ActionTypes, #<GameItem13_ActionTypes, #<GameItem14_ActionTypes, #<GameItem15_ActionTypes
+	.db #<Object0_ActionTypes, #<Object1_ActionTypes, #<Object2_ActionTypes, #<Object3_ActionTypes, #<Object4_ActionTypes, #<Object5_ActionTypes, #<Object6_ActionTypes, #<Object7_ActionTypes
+	.db #<Object8_ActionTypes, #<Object9_ActionTypes, #<Object10_ActionTypes, #<Object11_ActionTypes, #<Object12_ActionTypes, #<Object13_ActionTypes, #<Object14_ActionTypes, #<Object15_ActionTypes
+	.db #<Object16_ActionTypes, #<Object17_ActionTypes, #<Object18_ActionTypes, #<Object19_ActionTypes, #<Object20_ActionTypes, #<Object21_ActionTypes, #<Object22_ActionTypes, #<Object23_ActionTypes
+	.db #<Object24_ActionTypes, #<Object25_ActionTypes, #<Object26_ActionTypes, #<Object27_ActionTypes, #<Object28_ActionTypes, #<Object29_ActionTypes, #<Object30_ActionTypes, #<Object31_ActionTypes
+	.db #<Object32_ActionTypes, #<Object33_ActionTypes, #<Object34_ActionTypes, #<Object35_ActionTypes, #<Object36_ActionTypes, #<Object37_ActionTypes, #<Object38_ActionTypes, #<Object39_ActionTypes
+	.db #<Object40_ActionTypes, #<Object41_ActionTypes, #<Object42_ActionTypes, #<Object43_ActionTypes, #<Object44_ActionTypes, #<Object45_ActionTypes, #<Object46_ActionTypes, #<Object47_ActionTypes
+	.db #<Object48_ActionTypes, #<Object49_ActionTypes, #<Object50_ActionTypes, #<Object51_ActionTypes, #<Object52_ActionTypes, #<Object53_ActionTypes, #<Object54_ActionTypes, #<Object55_ActionTypes
+	.db #<Object56_ActionTypes, #<Object57_ActionTypes, #<Object58_ActionTypes, #<Object59_ActionTypes, #<Object60_ActionTypes, #<Object61_ActionTypes, #<Object62_ActionTypes, #<Object63_ActionTypes
+EndActionAnimationTableLo:
+
+	.db #<GameItem0_EndAction, #<GameItem1_EndAction, #<GameItem2_EndAction, #<GameItem3_EndAction, #<GameItem4_EndAction, #<GameItem5_EndAction, #<GameItem6_EndAction, #<GameItem7_EndAction
+	.db #<GameItem8_EndAction, #<GameItem9_EndAction, #<GameItem10_EndAction, #<GameItem11_EndAction, #<GameItem12_EndAction, #<GameItem13_EndAction, #<GameItem14_EndAction, #<GameItem15_EndAction
+	.db #<Object0_EndAction, #<Object1_EndAction, #<Object2_EndAction, #<Object3_EndAction, #<Object4_EndAction, #<Object5_EndAction, #<Object6_EndAction, #<Object7_EndAction
+	.db #<Object8_EndAction, #<Object9_EndAction, #<Object10_EndAction, #<Object11_EndAction, #<Object12_EndAction, #<Object13_EndAction, #<Object14_EndAction, #<Object15_EndAction
+	.db #<Object16_EndAction, #<Object17_EndAction, #<Object18_EndAction, #<Object19_EndAction, #<Object20_EndAction, #<Object21_EndAction, #<Object22_EndAction, #<Object23_EndAction
+	.db #<Object24_EndAction, #<Object25_EndAction, #<Object26_EndAction, #<Object27_EndAction, #<Object28_EndAction, #<Object29_EndAction, #<Object30_EndAction, #<Object31_EndAction
+	.db #<Object32_EndAction, #<Object33_EndAction, #<Object34_EndAction, #<Object35_EndAction, #<Object36_EndAction, #<Object37_EndAction, #<Object38_EndAction, #<Object39_EndAction
+	.db #<Object40_EndAction, #<Object41_EndAction, #<Object42_EndAction, #<Object43_EndAction, #<Object44_EndAction, #<Object45_EndAction, #<Object46_EndAction, #<Object47_EndAction
+	.db #<Object48_EndAction, #<Object49_EndAction, #<Object50_EndAction, #<Object51_EndAction, #<Object52_EndAction, #<Object53_EndAction, #<Object54_EndAction, #<Object55_EndAction
+	.db #<Object56_EndAction, #<Object57_EndAction, #<Object58_EndAction, #<Object59_EndAction, #<Object60_EndAction, #<Object61_EndAction, #<Object62_EndAction, #<Object63_EndAction
+VulnerabilityTableLo:
+
+	.db #<GameItem0_VulnerabilityTable, #<GameItem1_VulnerabilityTable, #<GameItem2_VulnerabilityTable, #<GameItem3_VulnerabilityTable, #<GameItem4_VulnerabilityTable, #<GameItem5_VulnerabilityTable, #<GameItem6_VulnerabilityTable, #<GameItem7_VulnerabilityTable
+	.db #<GameItem8_VulnerabilityTable, #<GameItem9_VulnerabilityTable, #<GameItem10_VulnerabilityTable, #<GameItem11_VulnerabilityTable, #<GameItem12_VulnerabilityTable, #<GameItem13_VulnerabilityTable, #<GameItem14_VulnerabilityTable, #<GameItem15_VulnerabilityTable
+	.db #<Object0_VulnerabilityTable, #<Object1_VulnerabilityTable, #<Object2_VulnerabilityTable, #<Object3_VulnerabilityTable, #<Object4_VulnerabilityTable, #<Object5_VulnerabilityTable, #<Object6_VulnerabilityTable, #<Object7_VulnerabilityTable
+	.db #<Object8_VulnerabilityTable, #<Object9_VulnerabilityTable, #<Object10_VulnerabilityTable, #<Object11_VulnerabilityTable, #<Object12_VulnerabilityTable, #<Object13_VulnerabilityTable, #<Object14_VulnerabilityTable, #<Object15_VulnerabilityTable
+	.db #<Object16_VulnerabilityTable, #<Object17_VulnerabilityTable, #<Object18_VulnerabilityTable, #<Object19_VulnerabilityTable, #<Object20_VulnerabilityTable, #<Object21_VulnerabilityTable, #<Object22_VulnerabilityTable, #<Object23_VulnerabilityTable
+	.db #<Object24_VulnerabilityTable, #<Object25_VulnerabilityTable, #<Object26_VulnerabilityTable, #<Object27_VulnerabilityTable, #<Object28_VulnerabilityTable, #<Object29_VulnerabilityTable, #<Object30_VulnerabilityTable, #<Object31_VulnerabilityTable
+	.db #<Object32_VulnerabilityTable, #<Object33_VulnerabilityTable, #<Object34_VulnerabilityTable, #<Object35_VulnerabilityTable, #<Object36_VulnerabilityTable, #<Object37_VulnerabilityTable, #<Object38_VulnerabilityTable, #<Object39_VulnerabilityTable
+	.db #<Object40_VulnerabilityTable, #<Object41_VulnerabilityTable, #<Object42_VulnerabilityTable, #<Object43_VulnerabilityTable, #<Object44_VulnerabilityTable, #<Object45_VulnerabilityTable, #<Object46_VulnerabilityTable, #<Object47_VulnerabilityTable
+	.db #<Object48_VulnerabilityTable, #<Object49_VulnerabilityTable, #<Object50_VulnerabilityTable, #<Object51_VulnerabilityTable, #<Object52_VulnerabilityTable, #<Object53_VulnerabilityTable, #<Object54_VulnerabilityTable, #<Object55_VulnerabilityTable
+	.db #<Object56_VulnerabilityTable, #<Object57_VulnerabilityTable, #<Object58_VulnerabilityTable, #<Object59_VulnerabilityTable, #<Object60_VulnerabilityTable, #<Object61_VulnerabilityTable, #<Object62_VulnerabilityTable, #<Object63_VulnerabilityTable
+
+ObjectAnimationSpeedTableHi:
+
+	.db #>GameItem0_animSpeedTable, #>GameItem1_animSpeedTable, #>GameItem2_animSpeedTable, #>GameItem3_animSpeedTable, #>GameItem4_animSpeedTable, #>GameItem5_animSpeedTable, #>GameItem6_animSpeedTable, #>GameItem7_animSpeedTable
+	.db #>GameItem8_animSpeedTable, #>GameItem9_animSpeedTable, #>GameItem10_animSpeedTable, #>GameItem11_animSpeedTable, #>GameItem12_animSpeedTable, #>GameItem13_animSpeedTable, #>GameItem14_animSpeedTable, #>GameItem15_animSpeedTable
+	.db #>Object0_animSpeedTable, #>Object1_animSpeedTable, #>Object2_animSpeedTable, #>Object3_animSpeedTable, #>Object4_animSpeedTable, #>Object5_animSpeedTable, #>Object6_animSpeedTable, #>Object7_animSpeedTable
+	.db #>Object8_animSpeedTable, #>Object9_animSpeedTable, #>Object10_animSpeedTable, #>Object11_animSpeedTable, #>Object12_animSpeedTable, #>Object13_animSpeedTable, #>Object14_animSpeedTable, #>Object15_animSpeedTable
+	.db #>Object16_animSpeedTable, #>Object17_animSpeedTable, #>Object18_animSpeedTable, #>Object19_animSpeedTable, #>Object20_animSpeedTable, #>Object21_animSpeedTable, #>Object22_animSpeedTable, #>Object23_animSpeedTable
+	.db #>Object24_animSpeedTable, #>Object25_animSpeedTable, #>Object26_animSpeedTable, #>Object27_animSpeedTable, #>Object28_animSpeedTable, #>Object29_animSpeedTable, #>Object30_animSpeedTable, #>Object31_animSpeedTable
+	.db #>Object32_animSpeedTable, #>Object33_animSpeedTable, #>Object34_animSpeedTable, #>Object35_animSpeedTable, #>Object36_animSpeedTable, #>Object37_animSpeedTable, #>Object38_animSpeedTable, #>Object39_animSpeedTable
+	.db #>Object40_animSpeedTable, #>Object41_animSpeedTable, #>Object42_animSpeedTable, #>Object43_animSpeedTable, #>Object44_animSpeedTable, #>Object45_animSpeedTable, #>Object46_animSpeedTable, #>Object47_animSpeedTable
+	.db #>Object48_animSpeedTable, #>Object49_animSpeedTable, #>Object50_animSpeedTable, #>Object51_animSpeedTable, #>Object52_animSpeedTable, #>Object53_animSpeedTable, #>Object54_animSpeedTable, #>Object55_animSpeedTable
+	.db #>Object56_animSpeedTable, #>Object57_animSpeedTable, #>Object58_animSpeedTable, #>Object59_animSpeedTable, #>Object60_animSpeedTable, #>Object61_animSpeedTable, #>Object62_animSpeedTable, #>Object63_animSpeedTable
+ObjectBehaviorTableHi:
+
+	.db #>GameItem0_ActionTypes, #>GameItem1_ActionTypes, #>GameItem2_ActionTypes, #>GameItem3_ActionTypes, #>GameItem4_ActionTypes, #>GameItem5_ActionTypes, #>GameItem6_ActionTypes, #>GameItem7_ActionTypes
+	.db #>GameItem8_ActionTypes, #>GameItem9_ActionTypes, #>GameItem10_ActionTypes, #>GameItem11_ActionTypes, #>GameItem12_ActionTypes, #>GameItem13_ActionTypes, #>GameItem14_ActionTypes, #>GameItem15_ActionTypes
+	.db #>Object0_ActionTypes, #>Object1_ActionTypes, #>Object2_ActionTypes, #>Object3_ActionTypes, #>Object4_ActionTypes, #>Object5_ActionTypes, #>Object6_ActionTypes, #>Object7_ActionTypes
+	.db #>Object8_ActionTypes, #>Object9_ActionTypes, #>Object10_ActionTypes, #>Object11_ActionTypes, #>Object12_ActionTypes, #>Object13_ActionTypes, #>Object14_ActionTypes, #>Object15_ActionTypes
+	.db #>Object16_ActionTypes, #>Object17_ActionTypes, #>Object18_ActionTypes, #>Object19_ActionTypes, #>Object20_ActionTypes, #>Object21_ActionTypes, #>Object22_ActionTypes, #>Object23_ActionTypes
+	.db #>Object24_ActionTypes, #>Object25_ActionTypes, #>Object26_ActionTypes, #>Object27_ActionTypes, #>Object28_ActionTypes, #>Object29_ActionTypes, #>Object30_ActionTypes, #>Object31_ActionTypes
+	.db #>Object32_ActionTypes, #>Object33_ActionTypes, #>Object34_ActionTypes, #>Object35_ActionTypes, #>Object36_ActionTypes, #>Object37_ActionTypes, #>Object38_ActionTypes, #>Object39_ActionTypes
+	.db #>Object40_ActionTypes, #>Object41_ActionTypes, #>Object42_ActionTypes, #>Object43_ActionTypes, #>Object44_ActionTypes, #>Object45_ActionTypes, #>Object46_ActionTypes, #>Object47_ActionTypes
+	.db #>Object48_ActionTypes, #>Object49_ActionTypes, #>Object50_ActionTypes, #>Object51_ActionTypes, #>Object52_ActionTypes, #>Object53_ActionTypes, #>Object54_ActionTypes, #>Object55_ActionTypes
+	.db #>Object56_ActionTypes, #>Object57_ActionTypes, #>Object58_ActionTypes, #>Object59_ActionTypes, #>Object60_ActionTypes, #>Object61_ActionTypes, #>Object62_ActionTypes, #>Object63_ActionTypes
+EndActionAnimationTableHi:
+
+	.db #>GameItem0_EndAction, #>GameItem1_EndAction, #>GameItem2_EndAction, #>GameItem3_EndAction, #>GameItem4_EndAction, #>GameItem5_EndAction, #>GameItem6_EndAction, #>GameItem7_EndAction
+	.db #>GameItem8_EndAction, #>GameItem9_EndAction, #>GameItem10_EndAction, #>GameItem11_EndAction, #>GameItem12_EndAction, #>GameItem13_EndAction, #>GameItem14_EndAction, #>GameItem15_EndAction
+	.db #>Object0_EndAction, #>Object1_EndAction, #>Object2_EndAction, #>Object3_EndAction, #>Object4_EndAction, #>Object5_EndAction, #>Object6_EndAction, #>Object7_EndAction
+	.db #>Object8_EndAction, #>Object9_EndAction, #>Object10_EndAction, #>Object11_EndAction, #>Object12_EndAction, #>Object13_EndAction, #>Object14_EndAction, #>Object15_EndAction
+	.db #>Object16_EndAction, #>Object17_EndAction, #>Object18_EndAction, #>Object19_EndAction, #>Object20_EndAction, #>Object21_EndAction, #>Object22_EndAction, #>Object23_EndAction
+	.db #>Object24_EndAction, #>Object25_EndAction, #>Object26_EndAction, #>Object27_EndAction, #>Object28_EndAction, #>Object29_EndAction, #>Object30_EndAction, #>Object31_EndAction
+	.db #>Object32_EndAction, #>Object33_EndAction, #>Object34_EndAction, #>Object35_EndAction, #>Object36_EndAction, #>Object37_EndAction, #>Object38_EndAction, #>Object39_EndAction
+	.db #>Object40_EndAction, #>Object41_EndAction, #>Object42_EndAction, #>Object43_EndAction, #>Object44_EndAction, #>Object45_EndAction, #>Object46_EndAction, #>Object47_EndAction
+	.db #>Object48_EndAction, #>Object49_EndAction, #>Object50_EndAction, #>Object51_EndAction, #>Object52_EndAction, #>Object53_EndAction, #>Object54_EndAction, #>Object55_EndAction
+	.db #>Object56_EndAction, #>Object57_EndAction, #>Object58_EndAction, #>Object59_EndAction, #>Object60_EndAction, #>Object61_EndAction, #>Object62_EndAction, #>Object63_EndAction
+VulnerabilityTableHi:
+
+	.db #>GameItem0_VulnerabilityTable, #>GameItem1_VulnerabilityTable, #>GameItem2_VulnerabilityTable, #>GameItem3_VulnerabilityTable, #>GameItem4_VulnerabilityTable, #>GameItem5_VulnerabilityTable, #>GameItem6_VulnerabilityTable, #>GameItem7_VulnerabilityTable
+	.db #>GameItem8_VulnerabilityTable, #>GameItem9_VulnerabilityTable, #>GameItem10_VulnerabilityTable, #>GameItem11_VulnerabilityTable, #>GameItem12_VulnerabilityTable, #>GameItem13_VulnerabilityTable, #>GameItem14_VulnerabilityTable, #>GameItem15_VulnerabilityTable
+	.db #>Object0_VulnerabilityTable, #>Object1_VulnerabilityTable, #>Object2_VulnerabilityTable, #>Object3_VulnerabilityTable, #>Object4_VulnerabilityTable, #>Object5_VulnerabilityTable, #>Object6_VulnerabilityTable, #>Object7_VulnerabilityTable
+	.db #>Object8_VulnerabilityTable, #>Object9_VulnerabilityTable, #>Object10_VulnerabilityTable, #>Object11_VulnerabilityTable, #>Object12_VulnerabilityTable, #>Object13_VulnerabilityTable, #>Object14_VulnerabilityTable, #>Object15_VulnerabilityTable
+	.db #>Object16_VulnerabilityTable, #>Object17_VulnerabilityTable, #>Object18_VulnerabilityTable, #>Object19_VulnerabilityTable, #>Object20_VulnerabilityTable, #>Object21_VulnerabilityTable, #>Object22_VulnerabilityTable, #>Object23_VulnerabilityTable
+	.db #>Object24_VulnerabilityTable, #>Object25_VulnerabilityTable, #>Object26_VulnerabilityTable, #>Object27_VulnerabilityTable, #>Object28_VulnerabilityTable, #>Object29_VulnerabilityTable, #>Object30_VulnerabilityTable, #>Object31_VulnerabilityTable
+	.db #>Object32_VulnerabilityTable, #>Object33_VulnerabilityTable, #>Object34_VulnerabilityTable, #>Object35_VulnerabilityTable, #>Object36_VulnerabilityTable, #>Object37_VulnerabilityTable, #>Object38_VulnerabilityTable, #>Object39_VulnerabilityTable
+	.db #>Object40_VulnerabilityTable, #>Object41_VulnerabilityTable, #>Object42_VulnerabilityTable, #>Object43_VulnerabilityTable, #>Object44_VulnerabilityTable, #>Object45_VulnerabilityTable, #>Object46_VulnerabilityTable, #>Object47_VulnerabilityTable
+	.db #>Object48_VulnerabilityTable, #>Object49_VulnerabilityTable, #>Object50_VulnerabilityTable, #>Object51_VulnerabilityTable, #>Object52_VulnerabilityTable, #>Object53_VulnerabilityTable, #>Object54_VulnerabilityTable, #>Object55_VulnerabilityTable
+	.db #>Object56_VulnerabilityTable, #>Object57_VulnerabilityTable, #>Object58_VulnerabilityTable, #>Object59_VulnerabilityTable, #>Object60_VulnerabilityTable, #>Object61_VulnerabilityTable, #>Object62_VulnerabilityTable, #>Object63_VulnerabilityTable
+AnimationTables:
+	.include "ScreenData\ObjectData\animSpeedtable.dat"
+BehaviorTables:
+	.include "ScreenData\ObjectData\ObjectBehaviorTable.dat"
+EndAnimationTables:
+	.include "ScreenData\ObjectData\EndActionAnimationTable.dat"
+VulnerabilityTables:
+	.include "ScreenData\ObjectData\VulnerabilityTable.dat"
+ObjectMaxSpeed:
+	.include "ScreenData\ObjectData\ObjectMaxSpeed.dat"
+ObjectSize:
+	.include "ScreenData\ObjectData\ObjectSize.dat"
+ObjectBboxLeft:
+	.include "ScreenData\ObjectData\ObjectBboxLeft.dat"
+ObjectWidth:
+	.include "ScreenData\ObjectData\ObjectWidth.dat"
+ObjectBboxTop:
+	.include "ScreenData\ObjectData\ObjectBboxTop.dat"
+ObjectHeight:
+	.include "ScreenData\ObjectData\ObjectHeight.dat"
+ObjectWorth:
+	.include "ScreenData\ObjectData\ObjectWorth.dat"
+ObjectSpeedVariant:
+	.include "ScreenData\ObjectData\ObjectSpeedVariant.dat"
+ObjectStrengthDefense:
+	.include "ScreenData\ObjectData\ObjectStrengthDefense.dat"
+ObjectHealth:
+	.include "ScreenData\ObjectData\ObjectHealth.dat"
+ObjectFlags:
+	.include "ScreenData\ObjectData\ObjectFlags.dat"
+ObjectAccAmount:
+	.include "ScreenData\ObjectData\ObjectAccAmount.dat"
+ObjectJumpSpeedLo:
+	.include "ScreenData\ObjectData\monsterObjectStartJumpSpeedLo.dat"
+ObjectJumpSpeedHi:
+	.include "ScreenData\ObjectData\monsterObjectStartJumpSpeedHi.dat"
