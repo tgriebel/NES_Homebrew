@@ -1,4 +1,4 @@
-;; Screen data export. Saturday, April 25, 2020 6:47:13 PM
+;; Screen data export. Saturday, April 25, 2020 7:23:42 PM
 ;; GraphicBankID = 0x01
 ;; PaletteID = 0x00
 .db #$42, #$42, #$42, #$42, #$42, #$42, #$42, #$42, #$42, #$42, #$42, #$42, #$42, #$42, #$42, #$42

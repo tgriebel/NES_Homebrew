@@ -1,5 +1,5 @@
 ;; *************** hudVarInits.asm ***************
-;; User var init export. Saturday, April 25, 2020 6:47:15 PM
+;; User var init export. Saturday, April 25, 2020 7:23:44 PM
 
 LDA #0 ; UserVar_0
 STA UserVar_0
@@ -18,5 +18,5 @@ STA UserVar_6
 LDA #0 ; UserVar_7
 STA UserVar_7
 
-;; UserDefined var init export. Saturday, April 25, 2020 6:47:15 PM
+;; UserDefined var init export. Saturday, April 25, 2020 7:23:44 PM
 

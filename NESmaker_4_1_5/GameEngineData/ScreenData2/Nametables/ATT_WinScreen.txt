@@ -1,4 +1,4 @@
-;; Attribute data export. Saturday, April 25, 2020 6:47:15 PM
+;; Attribute data export. Saturday, April 25, 2020 7:23:44 PM
 ;; GraphicBankID = 0x00
 ;; Special PaletteID = 0x00
 ATT_WinScreen:

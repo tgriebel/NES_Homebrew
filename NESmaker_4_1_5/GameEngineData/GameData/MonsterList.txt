@@ -1,5 +1,5 @@
 ;; *************** MonsterList.txt ***************
-;; Monster list export. Saturday, April 25, 2020 6:47:15 PM
+;; Monster list export. Saturday, April 25, 2020 7:23:44 PM
 
 ;;;; 0	GameItem: Player ID=0
 ;;;; 1	GameItem: Magic ID=1

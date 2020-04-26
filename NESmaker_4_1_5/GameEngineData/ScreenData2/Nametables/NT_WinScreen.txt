@@ -1,5 +1,5 @@
 ;; *************** WinScreen ***************
-;; Special Screen data export. Saturday, April 25, 2020 6:47:15 PM
+;; Special Screen data export. Saturday, April 25, 2020 7:23:44 PM
 ;; SpecialScreenID = 0x01
 ;; Special PaletteID = 0x00
 NT_WinScreen:
